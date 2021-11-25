@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img align="left" width="420" src="https://" />
+  <img align="left" width="420" src="https://www.veed.io/download/04db6203-a850-4103-8cd1-1572ffd4a609" />
 <div align="right" >
   <h4 align="left">💻 I’m a FRONT-END Web Developer with a focus on Frontend </h4>
   <h4 align="left">🌱 I started learning to code in february '20 </h4>
