@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <img align="left" width="420" src="https://" />
 <div align="right" >
   <h4 align="left">💻 I’m a FRONT-END Web Developer with a focus on Frontend </h4>
-  <h4 align="left">🌱 I started learning to code in September '20 </h4>
+  <h4 align="left">🌱 I started learning to code in february '20 </h4>
   <h4 align="left">💡  I share my learning progress and projects on Twitter to inspire others</h4>
   <h4 align="left">📝 I write tech articles on my blog</h4>
   <h4 align="left">💰 Looking for my first job as a Junior Web Developer</h4>
