@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
   
 ##
-##  View my Portfolio Website 👉 [💻](https://.tech/)
+##  View my Portfolio Website 👉 [💻](https://stephenlankas.c1.biz/)
 ##  Read my Tech Blog 👉 [📝](https://stephenlankas.hashnode.dev/)
 
 ## Languages and Tools:
