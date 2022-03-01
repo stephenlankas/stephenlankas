@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/aegli84">
+<a href="https://github.com/stephenlankas">
   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=aegli84&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="stephen's GitHub stats" />
 </a>
  
