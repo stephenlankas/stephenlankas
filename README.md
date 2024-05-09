@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 </div>
   
 ##
-##  View my Portfolio Website 👉 [💻](https://stephenlankas.c1.biz/)
-##  Read my Tech Blog 👉 [📝](https://stephenlankas.hashnode.dev/)
+##  View my Portfolio Website 👉 [💻](https://dexterdesigners.netlify.app/)
+##  Read my Tech Blog 👉 [📝](https://dexterdesigners.netlify.app/)
 
 ## Languages and Tools:
 <br/>
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/stephenlankas">
     <img alt="linkedin" title="LinkedIn" width="65px" src="https://user-images.githubusercontent.com/64198045/143304055-362fe9e0-c016-4e1f-8cd3-1488ccafaa48.gif"/>
   </a>
-  <a href="https://twitter.com/electroplatin5">
+  <a href="https://twitter.com/stevee_ke">
    <img alt="twitter" title="Twitter" width="65px" src="https://user-images.githubusercontent.com/64198045/143304072-86665c35-b343-46fe-984c-93aec4b8e323.gif" />
   </a>
 </div>
